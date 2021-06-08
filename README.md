@@ -4,6 +4,9 @@ On this website, the main project in which I have worked are published. Many of 
 
 This pages includes projects related to:
 
+ *  Data Analysis
+![pandas image](https://fvgm-spec.github.io/img/using_pandas.png)
+
  *  Data Science
  *  Machine Learning
 
