@@ -1,7 +1,16 @@
-DATA SCIENCE PROJECTS
+<p align="center">
+## Felix Gutierrez personal portfolio.
+</p>
 
-MACHINE LEARNING
-DATA ANALISYS
+
+On this website, the main project in which I have worked are published. Many of them have been generated as a product of courses carried out, MOOCs, research, and the need to learn new libraries to develop in my profession.
+
+This pages includes projects related to:
+
+ *  Data Science
+ *  Machine Learning
+
+
 
 
 [Résumé en español](https://fvgm-spec.github.io/CV/felix_gutierrez_cv_espanyol.pdf)
