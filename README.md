@@ -1,18 +1,35 @@
 ## Felix Gutierrez personal portfolio.
 
-On this website, the main project in which I have worked are published. Many of them have been generated as a product of courses carried out, MOOCs, research, and the need to learn new libraries to develop in my profession. Most of the projects/analysis are developed in [Jupyter Notebooks](https://jupyter.org/), and making use of the most common used packages for data analysis in Python, such as [pandas](https://pandas.pydata.org/), [numpy](https://numpy.org/), among others.
+The followuing is a sample of the main projects I have working on, most of them are published published in my [GitHub repository](https://github.com/fvgm-spec). Many of them have been generated as a product of courses carried out, MOOCs, research, and the need to learn new libraries to develop in my profession. Most of the projects/analysis were developed in [Jupyter Notebooks](https://jupyter.org/), and making use of the most common used packages for data analysis in Python, such as [pandas](https://pandas.pydata.org/), [numpy](https://numpy.org/), among others.
 
-This pages includes projects related to:
+My projects includes:
 
  *  Data Analysis
 
-Through this notebook, I started analyzing data from IMDB
+Through this notebook, I the covid cases appearing around the world from [Our World In Data](https://github.com/owid/covid-19-data). I used libraries such as pandas, [seaborn](http://seaborn.pydata.org/index.html) and [matplotlib](https://matplotlib.org/) to generate a lineplot like this one, which shows the evolution of covid new cases in Uruguay.
 
+![pandas image](https://fvgm-spec.github.io/img/covid_lineplot.png)
 
-![pandas image](https://fvgm-spec.github.io/img/using_pandas.png)
+For more details check the code in [GitHub repo](https://github.com/fvgm-spec)
 
  *  Data Science
  *  Machine Learning
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
 
 [Résumé en español](https://fvgm-spec.github.io/CV/felix_gutierrez_cv_espanyol.pdf)
 
