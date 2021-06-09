@@ -6,7 +6,7 @@ My projects includes:
 
  *  Data Analysis
 
-Through this notebook, I the covid cases appearing around the world from [Our World In Data](https://github.com/owid/covid-19-data). I used libraries such as pandas, [seaborn](http://seaborn.pydata.org/index.html) and [matplotlib](https://matplotlib.org/) to generate a lineplot like this one, which shows the evolution of covid new cases in Uruguay.
+Through this notebook, I analyzed the covid cases appearing around the world from [Our World In Data](https://github.com/owid/covid-19-data). I used libraries such as pandas, [seaborn](http://seaborn.pydata.org/index.html) and [matplotlib](https://matplotlib.org/) to generate a lineplot like this one, which shows the evolution of covid new cases in Uruguay.
 
 ![pandas image](https://fvgm-spec.github.io/img/covid_lineplot.png)
 
@@ -14,16 +14,6 @@ For more details check the code in [GitHub repo](https://github.com/fvgm-spec)
 
  *  Data Science
  *  Machine Learning
-
-
-
-
-
-
-
-
-
-
 
 
 
