@@ -18,8 +18,10 @@ For more details check the code in the [GitHub repository](https://github.com/fv
 
 Some of the MOOCs and courses that I have completed in the field of Data Science, Data Viz and IT in general:
 
-[Python Data Expert](https://fvgm-spec.github.io/CV/Python Data Expert.pdf)
-
+ *  [Python Data Expert](https://fvgm-spec.github.io/CV/Python Data Expert.pdf)
+ *  [Google IT Automation Professional Certificate](https://fvgm-spec.github.io/CV/Google IT certificate.pdf)
+ *  [Scrum Foundations](https://www.credly.com/badges/63c426d0-7f47-4026-a779-acd4f7a7f873?source=linked_in_profile)
+ *  [Data Analysis with Python](https://fvgm-spec.github.io/CV/Data Analysis with Python.pdf)
 
 
 Review my CV in English and Spanish, through the following links: 
