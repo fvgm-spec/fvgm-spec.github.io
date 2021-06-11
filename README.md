@@ -16,11 +16,13 @@ For more details check the code in the [GitHub repository](https://github.com/fv
  *  Machine Learning
 
 
+Some of the MOOCs and courses that I have completed in the field of Data Science, Data Viz and IT in general:
+
+[Python Data Expert](https://fvgm-spec.github.io/CV/Python Data Expert.pdf)
 
 
 
- 
+Review my CV in English and Spanish, through the following links: 
 
-[Résumé en español](https://fvgm-spec.github.io/CV/felix_gutierrez_cv_espanyol.pdf)
-
-[Résumé in english](https://fvgm-spec.github.io/CV/felix_gutierrez_cv_english.pdf)
+ *  [Résumé en español](https://fvgm-spec.github.io/CV/felix_gutierrez_cv_espanyol.pdf)
+ *  [Résumé in english](https://fvgm-spec.github.io/CV/felix_gutierrez_cv_english.pdf)
