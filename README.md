@@ -53,7 +53,7 @@ Some of the MOOCs and courses that I have completed in the field of Data Science
 
 Favourite books for data science and machine learning:
 
-
+[Hands-On Machine Learning with Scikit-Learn](https://github.com/fvgm-spec/books/blob/main/Hands-On%20Machine%20Learning%20with%20Scikit-Learn%20and%20TensorFlow_%20Concepts%2C%20Tools%2C%20and%20Techniques%20to%20Build%20Intelligent%20Systems%20(%20PDFDrive%20).pdf)
 
 
 
