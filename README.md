@@ -60,4 +60,4 @@ Favourite books for data science and machine learning:
 Review my CV in English and Spanish, through the following links: 
 
  *  [Résumé en español](https://fvgm-spec.github.io/CV/felix_gutierrez_cv_espanyol.pdf)
- *  [Résumé in english](https://fvgm-spec.github.io/CV/felix_gutierrez_cv_english.pdf)
+ *  [Résumé in english](https://fvgm-spec.github.io/CV/CV Felix Gutierrez.pdf)
